@@ -1,0 +1,4 @@
+# Treat these files as text, not binary
+data_ingest.txt text
+ingest.txt text
+*.txt text
